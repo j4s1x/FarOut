@@ -42,7 +42,7 @@
             "Key": "2b98fb0a-7f8b-4c60-95a8-3af594f23eb0",
             "Value": {
                 "id": "c49b88bb-f396-4db4-bbcf-4297044dbf57",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Playground\\Playground.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -52,6 +52,14 @@
                 "id": "b7978ae6-9bbb-4da2-97a3-2d0f9f0d7a6e",
                 "resourcePath": "views\\2fbc86a1-55db-4617-b57a-a0c5ce7d8775.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "551528c7-c3d7-4b33-9b8c-cc5688beb0e5",
+            "Value": {
+                "id": "4f28cec6-841a-4bb1-9cbf-46a5c564977d",
+                "resourcePath": "objects\\oBlock1\\oBlock1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -68,6 +76,14 @@
                 "id": "8b1edd16-7fbd-4a7a-9f0d-fa918529bcff",
                 "resourcePath": "views\\719128f3-c7cd-4802-aa97-c37e6e69ac06.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "747bef51-4b11-475d-a75d-791651d2a35a",
+            "Value": {
+                "id": "473b0fb0-8c25-4de8-98df-d38c0bfde8a1",
+                "resourcePath": "sprites\\sBlock1\\sBlock1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
