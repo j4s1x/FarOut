@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "012a3335-9b62-492d-9e1b-24c8ea9f9ebf",
+            "Value": {
+                "id": "4af38d23-85d7-4b37-b7cb-8ff44476577d",
+                "resourcePath": "objects\\pCoach\\pCoach.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08b0a10a-212d-4c08-a611-25caa0ea263b",
+            "Value": {
+                "id": "0e714bdc-7fd7-4100-9387-abdc7a94be95",
+                "resourcePath": "sprites\\sCoachA\\sCoachA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21eca9cf-aa4b-4c21-84e0-62b6581d5817",
             "Value": {
                 "id": "09f28128-3538-42a8-ad7a-6f3a0a19b6ba",
@@ -55,10 +71,42 @@
             }
         },
         {
+            "Key": "317a65fd-6c66-4b2a-b7c1-b8c60373df89",
+            "Value": {
+                "id": "2e541d1e-c7b0-47f5-b5b2-d504796c1816",
+                "resourcePath": "sprites\\sCoachJLg\\sCoachJLg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "36e7872d-47ac-49f4-a292-bd8c26a495f2",
+            "Value": {
+                "id": "94837306-d3f6-4e43-b58b-f24a52b05196",
+                "resourcePath": "sprites\\sCoach\\sCoach.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "551528c7-c3d7-4b33-9b8c-cc5688beb0e5",
             "Value": {
                 "id": "4f28cec6-841a-4bb1-9cbf-46a5c564977d",
                 "resourcePath": "objects\\oBlock1\\oBlock1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "560b9cb0-71e3-4402-ba1b-922db1929997",
+            "Value": {
+                "id": "192b1149-5207-4663-86b4-b2384678540e",
+                "resourcePath": "sprites\\sCoachbackup\\sCoachbackup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bdb0b65-01ce-4d03-8020-a90be9a27fc3",
+            "Value": {
+                "id": "219d1259-d228-4a9a-81b2-955857802392",
+                "resourcePath": "objects\\oJelly\\oJelly.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -103,6 +151,14 @@
             }
         },
         {
+            "Key": "85041808-5666-4cf3-ba85-a46bf3d597f9",
+            "Value": {
+                "id": "0ac48f7d-92ec-4131-a1de-ef8f4b915d44",
+                "resourcePath": "sprites\\sCoachALg\\sCoachALg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ec329de-fc12-4fd5-b17b-a6c715219259",
             "Value": {
                 "id": "3166f737-7b27-44c7-a395-35d955489ea7",
@@ -124,6 +180,14 @@
                 "id": "ac8efbd4-8f7b-4f5a-88f4-89668c998623",
                 "resourcePath": "views\\add55071-b2f7-4e44-9222-acf874038219.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba9e42cd-6a04-46cc-9652-3ddcc646e40f",
+            "Value": {
+                "id": "21d4f195-47c0-48f5-a2a8-1a469520f1aa",
+                "resourcePath": "sprites\\sJelly\\sJelly.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -180,6 +244,14 @@
                 "id": "4eb46a33-8379-4ef7-942f-649165f7a5c5",
                 "resourcePath": "views\\e18d4450-d430-4b01-96cd-ed88c56f6cae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e26e1388-f77e-450e-8026-7c1c2d5c63de",
+            "Value": {
+                "id": "69b70d6c-abcd-4933-8ebb-fbd051f4f185",
+                "resourcePath": "sprites\\sCoachLg\\sCoachLg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
