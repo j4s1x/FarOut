@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "7bab862c-f35f-4fa9-a353-93172394a0a8",
-            "Value": {
-                "id": "167be642-5a7c-4d05-b892-4b61b619a741",
-                "resourcePath": "objects\\oFruit1\\oFruit1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7c20e736-ff76-4b71-afd8-c17660206049",
             "Value": {
                 "id": "6d79e65c-a8c0-4f8c-b274-486408a29b5d",

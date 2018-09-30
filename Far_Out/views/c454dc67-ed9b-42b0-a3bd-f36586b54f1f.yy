@@ -8,6 +8,7 @@
         "551528c7-c3d7-4b33-9b8c-cc5688beb0e5",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "5bdb0b65-01ce-4d03-8020-a90be9a27fc3",
 <<<<<<< HEAD
         "e59023f0-94d3-47ff-b126-ba7533626efc"
@@ -20,6 +21,9 @@
 =======
         "5bdb0b65-01ce-4d03-8020-a90be9a27fc3"
 >>>>>>> parent of 72c6f32... Camera
+=======
+        "5bdb0b65-01ce-4d03-8020-a90be9a27fc3"
+>>>>>>> parent of 739817e... added 1 new object
     ],
     "filterType": "GMObject",
     "folderName": "objects",
