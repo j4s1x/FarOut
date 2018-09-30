@@ -3,17 +3,10 @@
 left = keyboard_check(ord("A"));
 right = keyboard_check(ord("D"));
 jump = keyboard_check_pressed(vk_space);
-running = keyboard_check_direct(vk_lshift);
+
 var move = right - left; //lets say we press right
 
-if (running)
-{
-	hsp = move * runsp;
-}
-else
-{
-	hsp = move * walksp; // so 0 = (1-0) * 4 which equals 4...
-}
+hsp = move * walksp; // so 0 = (1-0) * 4 which equals 4...
 //later on we say then that x = x + hsp...which is what we defined
 
 vsp = vsp + grv
